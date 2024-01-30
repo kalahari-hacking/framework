@@ -1,5 +1,14 @@
 # Kalahari Hacking Society -- Penetration Testing Framework (Template)
 
+## 🏅 Hacking Goals
+
+- __Confidentiality__: disclosing some information defined as 
+confidential.
+- __Integrity__: Modification of data without the modifications being
+detected.
+- __Availability__: Disruption of systems/services making them
+unavailable.
+
 ## Step 1: ☢️ Attack Model
 
 In order to secure a system, one should be aware of the 
